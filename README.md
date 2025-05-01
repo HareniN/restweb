@@ -940,19 +940,20 @@ admin.html
 
 ## OUTPUT:
 
-![alt text](<Screenshot (36).png>)
+![alt text](<Screenshot (36)-2.png>)
 
-![alt text](<Screenshot (37).png>)
+![alt text](Screenshot-2.png)
 
-![alt text](<Screenshot (34).png>)
+![alt text](<Screenshot (34)-1.png>)
 
-![alt text](<Screenshot (35).png>)
+![alt text](screenshot33.png)
 
-![alt text](<Screenshot (40).png>)
+![alt text](<Screenshot (40)-1.png>)
 
-![alt text](<Screenshot (41).png>)
+![alt text](<Screenshot (41)c.png>)
 
-![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (33)-1.png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
