@@ -940,9 +940,9 @@ admin.html
 
 ## OUTPUT:
 
-![alt text](<Screenshot (36)-2.png>)
+![alt text](<Screenshot (36)-1.png>)
 
-![alt text](Screenshot-2.png)
+![alt text](Screenshot-1.png)
 
 ![alt text](<Screenshot (34)-1.png>)
 
